@@ -1,0 +1,3 @@
+/tmp/omnibus, containing the Omnibus base dir
+/tmp/opt/datadog-agent, containing the Omnibus installation dir
+/tmp/gems, containing all the ruby gems installed with Bundler
