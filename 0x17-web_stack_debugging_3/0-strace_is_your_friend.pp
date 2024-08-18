@@ -1,3 +1,4 @@
+'''this line can write a puppet out'''
 # 0-strace_is_your_friend.pp
 
 # Example: Fixing a file permission issue on a specific directory
